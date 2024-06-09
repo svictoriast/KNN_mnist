@@ -1,1 +1,1 @@
-# KNN_mnist
+# KNN
